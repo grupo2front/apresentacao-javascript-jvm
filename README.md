@@ -4,7 +4,7 @@ Repositório dedicado a organizar os materiais para a apresentação de seminár
 
 ## Temas a serem abordados
 
-###Javascrip
+### Javascrip
 1. Breve história (Netscape → padrão ECMAScript).
 2. Onde é usado (navegadores, Node.js, etc.).
 3. Tipos de dados primitivos.
@@ -22,7 +22,7 @@ Repositório dedicado a organizar os materiais para a apresentação de seminár
 15. Frameworks modernos: React, Vue, Node.js
 16. WebAssembly, Deno
 
-###JVM
+### JVM
 1. História e propósito (Write Once, Run Anywhere).
 2. Relação com Java e outras linguagens (Kotlin, Scala, etc.).
 3. Diferenças entre JavaScript, Java e JVM.
